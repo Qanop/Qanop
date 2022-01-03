@@ -45,18 +45,17 @@
 ➡️ [more blog posts...][website]
 
 ---
-
-### :dart: GitHub Stats
-<img align="left" alt="Qanop's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qanop&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox" />
-
-<br />
-
 <details>
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+</details>
+
+<details>
+  <summary>:dart: GitHub Stats</summary>
+  <img align="left" alt="Qanop's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qanop&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox" />
 </details>
 
 [website]: https://sawczuk.dev
