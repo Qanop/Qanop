@@ -46,6 +46,9 @@
 
 ---
 
+### :dart: GitHub Stats
+<img align="left" alt="Qanop's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qanop&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox" />
+
 <details>
   <summary>:cyclone: Recent GitHub Activity</summary>
   
@@ -53,9 +56,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-### :dart: GitHub Stats
-<img align="left" alt="Qanop's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qanop&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox" />
 
 [website]: https://sawczuk.dev
 [twitter]: https://twitter.com/sawczuk_dev
