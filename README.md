@@ -5,9 +5,9 @@
 
 ## I'm just a simple person who wants to learn a lot!!
 
-- :mailbox_with_mail: learning new ways to build better infrastructure
-- :space_invader: Programming as previous full dev
+- :mailbox_with_mail: learning new ways to build IaC better
 - :pushpin: Collecting knowledge in Dev/DevOps and other paths, to share it with others on my on blog
+- :space_invader: Sometimes programming
 - :game_die: Also doing my hobby as photographer and DYI enthusiast
 
 ### Connect with me:
