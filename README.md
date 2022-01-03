@@ -54,6 +54,8 @@
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Qanop/blog/pull/2) in [Qanop/blog](https://github.com/Qanop/blog)
+2. 💪 Opened PR [#2](https://github.com/Qanop/blog/pull/2) in [Qanop/blog](https://github.com/Qanop/blog)
 <!--END_SECTION:activity-->
 
 </details>
