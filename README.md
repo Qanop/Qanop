@@ -40,6 +40,11 @@
 ### :notebook: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure files using git-crypt](https://sawczuk.dev/posts/secure-files-using-git-crypt)
+- [Using Github &#39;actions&#39;](https://sawczuk.dev/posts/using-github-actions)
+- [Launch multiple WordPress server in docker way](https://sawczuk.dev/posts/launch-multiple-wordpress-server-in-docker-way)
+- [Training: Tiny Python Projects](https://sawczuk.dev/posts/training-tiny-python-projects)
+- [Installing Lutris on Debian from A to Z](https://sawczuk.dev/posts/installing-lutris-on-debian-from-a-to-z)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
