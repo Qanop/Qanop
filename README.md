@@ -19,7 +19,7 @@
 <br />
 
 ### Languages and Tools:
-![AWS](https://img.shields.io/badge/-AWS-ffa000?logo=AWS&style=for-the-badge&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-ffa000?logo=AmazonAWS&style=for-the-badge&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-1565c0?logo=Terraform&style=for-the-badge&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-212121?logo=Ansible&style=for-the-badge&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-ffa000?logo=Grafana&style=for-the-badge&logoColor=black)
@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffeb3b?logo=JavaScript&style=for-the-badge&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-6ec6ff?logo=SQL&style=for-the-badge&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-ff5722?logo=Git&style=for-the-badge&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-212121?logo=Bash&style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-212121?logo=GNUBash&style=for-the-badge&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-7b1fa2?logo=Gatsby&style=for-the-badge&logoColor=white)
 
 <br />
