@@ -19,15 +19,15 @@
 <br />
 
 ### Languages and Tools:
-![AWS](https://img.shields.io/badge/-AWS-ffa000?logo=AmazonAWS&style=for-the-badge&logoColor=black)
-![Terraform](https://img.shields.io/badge/-Terraform-1565c0?logo=Terraform&style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=AmazonAWS&style=for-the-badge&logoColor=black)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&style=for-the-badge&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-212121?logo=Ansible&style=for-the-badge&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-ffa000?logo=Grafana&style=for-the-badge&logoColor=black)
 ![GitLab](https://img.shields.io/badge/-GitLab-fb8c00?logo=GitLab&style=for-the-badge&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-00acc1?logo=Python&style=for-the-badge&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-4527a0?logo=PHP&style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffeb3b?logo=JavaScript&style=for-the-badge&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-6ec6ff?logo=SQL&style=for-the-badge&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-ff5722?logo=Git&style=for-the-badge&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-212121?logo=GNUBash&style=for-the-badge&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-7b1fa2?logo=Gatsby&style=for-the-badge&logoColor=white)
