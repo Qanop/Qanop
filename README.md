@@ -19,18 +19,18 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />](#)
-[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />](#)
-[<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />](#)
-[<img align="left" alt="Grafana" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" />](#)
-[<img align="left" alt="GitLab" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" />](#)
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#)
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](#)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
-[<img align="left" alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />](#)
-[<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />](#)
-[<img align="left" alt="Bash" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-bash02_icon-icons.com_50815.png" />](#)
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gatsby_icon_130583.png" />](#)
+![AWS](https://img.shields.io/badge/-AWS-ffa000?logo=AWS&style=for-the-badge&logoColor=black)
+![Terraform](https://img.shields.io/badge/-Terraform-1565c0?logo=Terraform&style=for-the-badge&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-212121?logo=Ansible&style=for-the-badge&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-ffa000?logo=Grafana&style=for-the-badge&logoColor=black)
+![GitLab](https://img.shields.io/badge/-GitLab-fb8c00?logo=GitLab&style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-00acc1?logo=Python&style=for-the-badge&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-4527a0?logo=PHP&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffeb3b?logo=JavaScript&style=for-the-badge&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-6ec6ff?logo=SQL&style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-ff5722?logo=Git&style=for-the-badge&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-212121?logo=Bash&style=for-the-badge&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-7b1fa2?logo=Gatsby&style=for-the-badge&logoColor=white)
 
 <br />
 <br />
