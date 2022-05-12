@@ -11,10 +11,9 @@
 - :game_die: Also doing my hobby as photographer and DYI enthusiast
 
 ### Connect with me:
-
-[<img align="left" alt="sawczuk.dev" width="26px" src="https://cdn.icon-icons.com/icons2/2072/PNG/512/browser_internet_page_security_web_webpage_website_icon_127036.png" />][website]
-[<img align="left" alt="sawczuk_dev" width="26px" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" />][twitter]
-[<img align="left" alt="psawczuk" width="26px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />][linkedin]
+![sawczuk.dev](https://img.shields.io/badge/-sawczuk.dev-02456C?logo=Pastebin&style=for-the-badge&logoColor=black)
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&style=for-the-badge&logoColor=black)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=black)
 
 <br />
 
@@ -22,15 +21,15 @@
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=AmazonAWS&style=for-the-badge&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&style=for-the-badge&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-212121?logo=Ansible&style=for-the-badge&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-ffa000?logo=Grafana&style=for-the-badge&logoColor=black)
-![GitLab](https://img.shields.io/badge/-GitLab-fb8c00?logo=GitLab&style=for-the-badge&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-00acc1?logo=Python&style=for-the-badge&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-4527a0?logo=PHP&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffeb3b?logo=JavaScript&style=for-the-badge&logoColor=black)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=Grafana&style=for-the-badge&logoColor=black)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=GitLab&style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&style=for-the-badge&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-ff5722?logo=Git&style=for-the-badge&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-212121?logo=GNUBash&style=for-the-badge&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-7b1fa2?logo=Gatsby&style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNUBash&style=for-the-badge&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&style=for-the-badge&logoColor=white)
 
 <br />
 <br />
