@@ -15,8 +15,6 @@
 ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&style=for-the-badge&logoColor=black)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge&logoColor=black)
 
-<br />
-
 ### Languages and Tools:
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=AmazonAWS&style=for-the-badge&logoColor=black)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=MicrosoftAzure&style=for-the-badge&logoColor=black)
@@ -33,9 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNUBash&style=for-the-badge&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&style=for-the-badge&logoColor=white)
-
-<br />
-<br />
 
 ---
 
