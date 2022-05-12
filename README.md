@@ -19,8 +19,11 @@
 
 ### Languages and Tools:
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=AmazonAWS&style=for-the-badge&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=MicrosoftAzure&style=for-the-badge&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&style=for-the-badge&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-212121?logo=Ansible&style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&style=for-the-badge&logoColor=black)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=Grafana&style=for-the-badge&logoColor=black)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=GitLab&style=for-the-badge&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&style=for-the-badge&logoColor=black)
