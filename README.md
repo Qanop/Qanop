@@ -37,11 +37,11 @@
 ### :notebook: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Joining #100DaysOfHomeLab Challange](https://sawczuk.dev/posts/joining-100-days-of-homelab-challange)
 - [Building ad-block home server from the scratch. Again...](https://sawczuk.dev/posts/building-rpi-from-the-scratch)
 - [Map all AWS resources and make a vulnerability report using cloudmapper](https://sawczuk.dev/posts/map-all-aws-resources-and-make-a-vulnerability-report-using-cloudmapper)
 - [Secure files using git-crypt](https://sawczuk.dev/posts/secure-files-using-git-crypt)
 - [Using Github &#39;actions&#39;](https://sawczuk.dev/posts/using-github-actions)
-- [Launch multiple WordPress server in docker way](https://sawczuk.dev/posts/launch-multiple-wordpress-server-in-docker-way)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
