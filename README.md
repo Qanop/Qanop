@@ -51,8 +51,8 @@
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/issues/175) in [terraform-aws-modules/terraform-aws-autoscaling](https://github.com/terraform-aws-modules/terraform-aws-autoscaling)
-2. 🎉 Merged PR [#2](https://github.com/Qanop/blog/pull/2) in [Qanop/blog](https://github.com/Qanop/blog)
+1. 🎉 Merged PR [#1](https://github.com/Qanop/homelab/pull/1) in [Qanop/homelab](https://github.com/Qanop/homelab)
+2. 💪 Opened PR [#1](https://github.com/Qanop/homelab/pull/1) in [Qanop/homelab](https://github.com/Qanop/homelab)
 <!--END_SECTION:activity-->
 
 </details>
