@@ -37,11 +37,11 @@
 ### :notebook: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Working remote from other side of the world](https://sawczuk.dev/posts/working-remote-from-other-side-of-the-world)
+- [Trip to Japan: Booking multiple connections tickets](https://sawczuk.dev/posts/trip-to-japan-booking-multiple-connections-tickets)
+- [How I discovered, that remote work not only allows you to work from home](https://sawczuk.dev/posts/how-i-discovered-that-remote-work-not-only-allows-you-to-work-from-home)
 - [Automate Instagram feed with GramAddict](https://sawczuk.dev/posts/automate-instagram-feed-with-gramaddict)
-- [Joining #100DaysOfHomeLab Challange](https://sawczuk.dev/posts/joining-100-days-of-homelab-challange)
+- [Joining #100DaysOfHomeLab Challenge](https://sawczuk.dev/posts/joining-100-days-of-homelab-challenge)
 - [Building ad-block home server from the scratch. Again...](https://sawczuk.dev/posts/building-rpi-from-the-scratch)
-- [Map all AWS resources and make a vulnerability report using cloudmapper](https://sawczuk.dev/posts/map-all-aws-resources-and-make-a-vulnerability-report-using-cloudmapper)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
