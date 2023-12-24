@@ -50,10 +50,10 @@
 <details>
   <summary>:cyclone: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#1](https://github.com/Qanop/homelab/pull/1) in [Qanop/homelab](https://github.com/Qanop/homelab)
 2. 💪 Opened PR [#1](https://github.com/Qanop/homelab/pull/1) in [Qanop/homelab](https://github.com/Qanop/homelab)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 </details>
 
