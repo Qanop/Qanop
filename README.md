@@ -51,8 +51,11 @@
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/Qanop/homelab/pull/1) in [Qanop/homelab](https://github.com/Qanop/homelab)
-2. 💪 Opened PR [#1](https://github.com/Qanop/homelab/pull/1) in [Qanop/homelab](https://github.com/Qanop/homelab)
+1. ⬆️ Pushed 1 commit(s) to [Qanop/Qanop](https://github.com/Qanop/Qanop)<br>
+2. ⬆️ Pushed 1 commit(s) to [Qanop/Qanop](https://github.com/Qanop/Qanop)<br>
+3. ⬆️ Pushed 1 commit(s) to [Qanop/gridsome-travel](https://github.com/Qanop/gridsome-travel)<br>
+4. ⬆️ Pushed 1 commit(s) to [Qanop/gridsome-travel](https://github.com/Qanop/gridsome-travel)<br>
+5. ⬆️ Pushed 2 commit(s) to [Qanop/gridsome-travel](https://github.com/Qanop/gridsome-travel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
