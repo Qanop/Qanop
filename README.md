@@ -55,7 +55,6 @@
 2. ⬆️ Pushed 1 commit(s) to [Qanop/Qanop](https://github.com/Qanop/Qanop)<br>
 3. ⬆️ Pushed 1 commit(s) to [Qanop/gridsome-travel](https://github.com/Qanop/gridsome-travel)<br>
 4. ⬆️ Pushed 1 commit(s) to [Qanop/gridsome-travel](https://github.com/Qanop/gridsome-travel)<br>
-5. ⬆️ Pushed 2 commit(s) to [Qanop/gridsome-travel](https://github.com/Qanop/gridsome-travel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
