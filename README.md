@@ -51,7 +51,6 @@
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Qanop/Qanop](https://github.com/Qanop/Qanop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
