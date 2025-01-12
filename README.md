@@ -54,8 +54,6 @@
 1. ⬆️ Pushed 1 commit(s) to [Qanop/homelab](https://github.com/Qanop/homelab)<br>
 2. ⬆️ Pushed 1 commit(s) to [Qanop/homelab](https://github.com/Qanop/homelab)<br>
 3. ⬆️ Pushed 1 commit(s) to [Qanop/homelab](https://github.com/Qanop/homelab)<br>
-4. ⬆️ Pushed 1 commit(s) to [Qanop/homelab](https://github.com/Qanop/homelab)<br>
-5. ⭐ Starred [TechSquidTV/UltimateHomeServer](https://github.com/TechSquidTV/UltimateHomeServer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
