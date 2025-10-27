@@ -37,11 +37,11 @@
 ### :notebook: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitnami Docker Repository Changes Broke My Deployments](https://sawczuk.dev/posts/bitnami-docker-repository-change-broke-my-deployments)
 - [Setting Up a Terragrunt with tfEnv, SOPS, TFLint, and pre-commit](https://sawczuk.dev/posts/setting-up-a-terragrunt)
 - [Trip to Japan: Booking multiple connections tickets](https://sawczuk.dev/posts/trip-to-japan-booking-multiple-connections-tickets)
 - [How I discovered, that remote work not only allows you to work from home](https://sawczuk.dev/posts/how-i-discovered-that-remote-work-not-only-allows-you-to-work-from-home)
 - [Automate Instagram feed with GramAddict](https://sawczuk.dev/posts/automate-instagram-feed-with-gramaddict)
-- [Joining #100DaysOfHomeLab Challenge](https://sawczuk.dev/posts/joining-100-days-of-homelab-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
