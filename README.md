@@ -51,10 +51,7 @@
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Qanop/blog](https://github.com/Qanop/blog)<br>
-2. ⬆️ Pushed undefined commit(s) to [Qanop/blog](https://github.com/Qanop/blog)<br>
-3. ⬆️ Pushed undefined commit(s) to [Qanop/blog](https://github.com/Qanop/blog)<br>
-4. ⬆️ Pushed undefined commit(s) to [Qanop/blog](https://github.com/Qanop/blog)<br>
+1. ⭐ Starred [alexalmansa/TrailReplay](https://github.com/alexalmansa/TrailReplay)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
