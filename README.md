@@ -51,7 +51,6 @@
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alexalmansa/TrailReplay](https://github.com/alexalmansa/TrailReplay)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
