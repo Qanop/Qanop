@@ -51,6 +51,7 @@
   <summary>:cyclone: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [Qanop/jekyll-theme-chirpy](https://github.com/Qanop/jekyll-theme-chirpy) from [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
