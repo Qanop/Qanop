@@ -37,11 +37,11 @@
 ### :notebook: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Get Full HTTP Logs from Istio with Envoy and Lua Filters](https://sawczuk.dev/posts/istio-envoy-full-http-logging-lua-filters)
-- [Bitnami Docker Repository Changes Broke My Deployments](https://sawczuk.dev/posts/bitnami-docker-repository-change-broke-my-deployments)
-- [Setting Up a Terragrunt with tfEnv, SOPS, TFLint, and pre-commit](https://sawczuk.dev/posts/setting-up-a-terragrunt)
-- [Trip to Japan: Booking multiple connections tickets](https://sawczuk.dev/posts/trip-to-japan-booking-multiple-connections-tickets)
-- [How I discovered, that remote work not only allows you to work from home](https://sawczuk.dev/posts/how-i-discovered-that-remote-work-not-only-allows-you-to-work-from-home)
+- [Washed-Out Black: Why Windows Prints Worse Than Linux to the Same CUPS Queue](https://sawczuk.dev/insights/windows-cups-postscript-washed-out-text/)
+- [The Printer That Swallows Jobs: HP P1005 Firmware Reload in an Unprivileged LXC](https://sawczuk.dev/insights/hp-p1005-cups-firmware-reload-lxc/)
+- [When Your k3s Cluster Goes NotReady Because the Clock is Too Fast](https://sawczuk.dev/insights/k3s-clock-drift-tls-certificate-failure/)
+- [Running Gitea with act_runner for Fully Local CI/CD](https://sawczuk.dev/insights/running-gitea-with-act-runner-fully-local-cicd/)
+- [Full HTTP Request/Response Logging in Istio with Envoy Lua Filters](https://sawczuk.dev/insights/istio-envoy-lua-http-full-logging/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
