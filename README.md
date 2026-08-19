@@ -37,11 +37,11 @@
 ### :notebook: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DEGRADED Doesn&#39;t Mean Dead: Reading ZFS Checksum Errors](https://sawczuk.dev/insights/zfs-pool-degraded-checksum-errors/)
+- [Technitium DNS Is Probably Eating Your Disk](https://sawczuk.dev/insights/technitium-dns-sqlite-query-log-write-amplification/)
 - [Washed-Out Black: Why Windows Prints Worse Than Linux to the Same CUPS Queue](https://sawczuk.dev/insights/windows-cups-postscript-washed-out-text/)
 - [The Printer That Swallows Jobs: HP P1005 Firmware Reload in an Unprivileged LXC](https://sawczuk.dev/insights/hp-p1005-cups-firmware-reload-lxc/)
 - [When Your k3s Cluster Goes NotReady Because the Clock is Too Fast](https://sawczuk.dev/insights/k3s-clock-drift-tls-certificate-failure/)
-- [Running Gitea with act_runner for Fully Local CI/CD](https://sawczuk.dev/insights/running-gitea-with-act-runner-fully-local-cicd/)
-- [Full HTTP Request/Response Logging in Istio with Envoy Lua Filters](https://sawczuk.dev/insights/istio-envoy-lua-http-full-logging/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
